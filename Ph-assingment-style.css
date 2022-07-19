@@ -1,0 +1,212 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     margin: 0%;
+     background-color: bisque;
+
+}
+
+h1{
+    font-size: 40px;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.banner1{
+    background-image: url(images/donation9\ -\ Copy.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 650px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    color:rgb(60, 249, 220);
+    
+}
+
+.ban112{
+    text-shadow: 0 0 4px #010101;
+}
+
+.banner2{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    color: rgb(118, 27, 183);
+}
+
+.banner3{
+    text-align: center;
+}
+
+.money{
+    display: flex;
+    padding-left: 380px;
+    padding-bottom: 50px;
+    
+}
+
+#m1{
+    background-color:rgb(240, 220, 197) ;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px ;
+    
+}
+
+.banner4{
+    display: flex;
+    padding: 150px;
+    
+    
+}
+
+#ban4-1{
+    background-color: rgb(156, 239, 239);
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+#ban4-2{
+    background-color: rgb(255, 166, 166);
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    
+
+}
+#ban4-3{
+    background-color: rgb(74, 255, 174);
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    
+
+}
+
+.banner6{
+    display: flex;
+    background-color: rgb(138, 219, 177);
+    height: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    height: 200px;
+    padding-left: 200px;
+    
+}
+
+.sub{
+    text-decoration:none; 
+    background-color: aqua ; 
+    
+    
+    color: black;
+    font-weight: bold;
+  margin-top: 80px;
+  margin-bottom: 20px;
+  height: 20px;
+  padding-bottom: 20px;
+    
+    
+    
+}
+
+.banner6aling{
+    padding-top: 80px;
+
+}
+
+
+input[type=email]{
+    width:300px;
+    border-radius: 4px;
+    padding: 12px 20px;
+    border:10px ;
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid red;
+    background-color:bisque;
+    width: 600px;
+    text-align: center;
+    
+  }
+
+  
+.link-button{text-decoration: none; 
+    background-color: aqua ; 
+    
+    /*background-image: -moz-linear-gradient(orange,tomato);  [NOT WORKING] */
+
+    
+
+    color: black;
+    font-weight: bold;
+    border-radius: 10px ;
+    padding:3px 20px ;
+    
+}
+
+
+
+        
+
+        
+        
+  /*  Bonus */
+  
+  .team{
+    display: flex;
+    margin-left:150px ;
+    margin-right: 150px;
+    padding-bottom: 50px;
+  }
+
+  #t1{
+    background-color: rgb(156, 239, 239);
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  #t2{
+    background-color: rgb(255, 166, 166);
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  #t3{
+    background-color: rgb(74, 255, 174);
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+
+
+
+  footer{
+    text-align: center;
+    background-color: rgb(236, 209, 178);
+    margin-top: 150px;
+    padding-top: 60px;
+    
+    height: 80px;
+}
+#f1{
+    margin: 0%;
+    padding: 0%;
+}
